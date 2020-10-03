@@ -1,3 +1,1 @@
-
-
-#React DnD using React Beautiful DnD
+# React DnD using React Beautiful DnD
