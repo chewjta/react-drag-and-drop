@@ -1,1 +1,1 @@
-# React DnD using React Beautiful DnD
+# React Drag and Drop using React Beautiful DnD
